@@ -17,8 +17,8 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div>
-  <a href="https://www.youtube.com/UCyPg1CYOWbqDKS6Uo8jS3eQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/johnnyDev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCyPg1CYOWbqDKS6Uo8jS3eQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/johnnyDev22" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   <a href = "johnny.tyf2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   
