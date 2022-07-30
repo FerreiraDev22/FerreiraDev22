@@ -13,7 +13,7 @@
   <img align="center" alt="REACT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
           
           
-          
+          i class="devicon-react-original colored"></i>
 </div>
  
  <br>
