@@ -20,7 +20,7 @@
   ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div>
-<a href="https://www.youtube.com/channel/UCyPg1CYOWbqDKS6Uo8jS3eQ" target="_blank">< img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCyPg1CYOWbqDKS6Uo8jS3eQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ferreiradev22" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:johnny.tyf2020@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
