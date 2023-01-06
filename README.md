@@ -6,8 +6,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
- ## Tecnologias atualmente que eu uso:
  <br>
+ ### Tecnologias atualmente que eu uso:
+ 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"/>  
