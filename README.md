@@ -27,12 +27,11 @@
 <a href="http://johnnyferreiradev.online" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=website&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
-
-🌐 Navegadores da Web
-
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 
 
 
- ![ Animação de cobra ](https://github.com//FerreiraDev22/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+ 
