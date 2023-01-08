@@ -1,10 +1,12 @@
-## Bem-vindo(a) ao perfil do johnnyDev 😎🤜🤛😎
-therme:Dark
+    background-color:`#0d1117`;
 
+
+<strong><h1>Bem-vindo(a) ao meu perfil😎🤜🤛😎</h1></strong>
+"#0d1117"
  <div>
    <a href="https://github.com/FerreiraDev22">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerreiraDev22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs pt-br/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
  <br>
