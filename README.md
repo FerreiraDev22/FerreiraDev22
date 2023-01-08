@@ -7,8 +7,11 @@
 
 </div>
  <br>
-  ### Tecnologias atualmente que eu uso:
- 
+<hr>
+ <strong><h1> Tecnologias atualmente que eu uso:</h1> </strong>
+
+ <br>
+
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"/>  
@@ -16,8 +19,8 @@
  </div>
  
  <br>
- 
-  ### Contatos
+ <hr>
+ <strong> <h1> Contatos </h1> </strong>
  
 <div>
 <a href="https://instagram.com/ferreiradev22" target="_blank">
