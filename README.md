@@ -2,7 +2,7 @@
 
 
 <strong><h1>Bem-vindo(a) ao meu perfil😎🤜🤛😎</h1></strong>
-"#0d1117"
+
  <div>
    <a href="https://github.com/FerreiraDev22">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerreiraDev22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
