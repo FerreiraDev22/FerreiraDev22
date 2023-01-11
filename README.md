@@ -21,10 +21,19 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>       
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
+          
           
  </div>
  
  <br>
+ 
+  <strong><h1> Portifólio:</h1></strong>
+  
+ <button><a href="https://portifolio-29f05.web.app/" target="_blank"></button>
+ <img src="https://www.imagemhost.com.br/images/2023/01/11/logo.th.png" height="60" target="_blank"></a>
+ 
+ 
  
  <strong> <h1> Contatos </h1> </strong>
  
