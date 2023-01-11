@@ -29,10 +29,11 @@
  <br>
  
   <strong><h1> Portifólio:</h1></strong>
-  
- ><a href="https://portifolio-29f05.web.app/" target="_blank">
+   <div>
+   
+ <a href="https://portifolio-29f05.web.app/" target="_blank">
  <img src="https://www.imagemhost.com.br/images/2023/01/11/logo.th.png" height="60" target="_blank"></a>
- 
+ </div>
  
  
  <strong> <h1> Contatos </h1> </strong>
