@@ -30,7 +30,7 @@
  
   <strong><h1> Portifólio:</h1></strong>
   
- <button><a href="https://portifolio-29f05.web.app/" target="_blank"></button>
+ ><a href="https://portifolio-29f05.web.app/" target="_blank">
  <img src="https://www.imagemhost.com.br/images/2023/01/11/logo.th.png" height="60" target="_blank"></a>
  
  
