@@ -7,13 +7,13 @@
    <a href="https://github.com/FerreiraDev22">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerreiraDev22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark"/>
-
 </div>
- <br>
+ 
+   <br>  
 
  <strong><h1> Tecnologias atualmente que eu uso:</h1></strong>
 
- <br>
+   <br>
 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60"/>
@@ -21,18 +21,18 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>       
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
-          
-          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>       
  </div>
  
  <br>
  
   <strong><h1> Portifólio:</h1></strong>
+   
    <div>
    
  <a href="https://portifolio-29f05.web.app/" target="_blank">
- <img src="https://www.imagemhost.com.br/images/2023/01/11/logo.th.png" height="60" target="_blank"></a>
+ <img src="https://www.imagemhost.com.br/images/2023/01/11/logo.th.png" widght[METAS PARA 2023.24.txt](https://github.com/FerreiraDev22/FerreiraDev22/files/10400264/METAS.PARA.2023.24.txt)
+="60" target="_blank"></a>
  </div>
  
  
