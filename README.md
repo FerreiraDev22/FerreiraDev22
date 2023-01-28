@@ -26,14 +26,8 @@
  
  <br>
  
-  <strong><h1> Portifólio:</h1></strong>
-   
-   <div>
-   
- <a href="https://portifolio-29f05.web.app/" target="_blank">
- <img src="https://www.imagemhost.com.br/images/2023/01/11/logo.th.png" widght[METAS PARA 2023.24.txt](https://github.com/FerreiraDev22/FerreiraDev22/files/10400264/METAS.PARA.2023.24.txt)
-="60" target="_blank"></a>
- </div>
+  
+
  
  
  <strong> <h1> Contatos </h1> </strong>
