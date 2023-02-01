@@ -40,7 +40,7 @@
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img hre="![image](https://user-images.githubusercontent.com/110194312/215922928-e725b65c-1424-42dd-b33e-a067b36b15ad.png)">
+<img href="![image](https://user-images.githubusercontent.com/110194312/215922928-e725b65c-1424-42dd-b33e-a067b36b15ad.png)">
 
 
 
