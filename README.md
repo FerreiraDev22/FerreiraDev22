@@ -18,14 +18,14 @@ Olá👋! Me chamo Johnny 💻
 
 <strong><h1> Certificados:</strong></h1>
 
-<div>
-  <img src="1671743088038.jpg" width="500"/>
-  <p> Lógica de Programação</p>
-  <hr>
-  <img src="1671744392372.jpg" width="500">
-  <p> Java Web Fullstack </p>
-</div>
+<img src="https://www.imagemhost.com.br/images/2023/02/15/1671743088038.jpg" alt="1671743088038" wigth="60">
+<p> Lógica de Programação</p>
+<img src="https://www.imagemhost.com.br/images/2023/02/15/1671744392372.jpg" alt="1671744392372" wigth="60">
+<p> Java Web Fullstack </p>
+
 <strong><h1> Curriculo:</strong></h1>
+
+<button>https://docs.google.com/document/d/1bpM6AGeK9uO2xQlQ_-M1LKebsgnRuo4U/edit?usp=share_link&ouid=103977032787124051479&rtpof=true&sd=true</button>
 
 
  <strong><h1> Tecnologias atualmente que eu uso:</h1></strong>
