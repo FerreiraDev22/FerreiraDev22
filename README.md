@@ -18,9 +18,10 @@ Olá👋! Me chamo Johnny 💻
 
 <strong><h1> Certificados:</strong></h1>
 
-<img src="https://www.imagemhost.com.br/images/2023/02/15/1671743088038.jpg" alt="1671743088038" wigth="60">
+
+<img src="https://www.imagemhost.com.br/images/2023/02/15/1671743088038.md.jpg" alt="1671743088038.md.jpg" border="0"/>
 <p> Lógica de Programação</p>
-<img src="https://www.imagemhost.com.br/images/2023/02/15/1671744392372.jpg" alt="1671744392372" wigth="60">
+<img src="https://www.imagemhost.com.br/images/2023/02/15/1671744392372.md.jpg" alt="1671744392372.md.jpg" border="0"/>
 <p> Java Web Fullstack </p>
 
 <strong><h1> Curriculo:</strong></h1>
