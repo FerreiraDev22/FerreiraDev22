@@ -4,7 +4,7 @@
 
 <div>
 
-  <img src="eu.jpg">
+  <img src="https://www.imagemhost.com.br/images/2023/02/22/eu.jpg" alt="eu.jpg" border="0" />
 </div>
  
 Olá👋! Me chamo Johnny 💻
