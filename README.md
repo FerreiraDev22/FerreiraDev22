@@ -9,16 +9,13 @@
 
 <strong><h1>Resumo:</strong></h1>
  
-👋Olá Me chamo Johnny 
+👋 e Olá Me chamo Johnny 
 
 👨‍🎓 Cursos:Lógica de Programação / Java FullStack Web. 
 
 💻 Desenvolvedor Backend.
 
 👨‍💻 Me especializando na escola Coti informática
-
-📫 Contate-me no email: johnny.dev099@gmail.com
-<hr>
 
 <strong><h1>Certificados:</strong></h1>
 
@@ -73,7 +70,7 @@
 
    <img  src="https://github-readme-stats.vercel.app/api?username=FerreiraDev22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="140em"  whidth= "140em">
 
-   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark">
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark">
 </div>
   
   <strong><h1>Codando(eu):</strong></h1>
@@ -81,7 +78,15 @@
   <div>
  <img src="https://www.imagemhost.com.br/images/2023/02/22/200w.gif" alt="200w.gif"  width="300"/>
 </div>
-  
+  <strong><h1>Meu dia a dia :</strong></h1>
 
- 
+-A partir de segunda eu volto aos estudos 
   
+<strong><h1>Avisos:</strong></h1>
+
+Não tem!!!
+
+
+
+
+"O café é a melhor bebida do desenvolvedor"
