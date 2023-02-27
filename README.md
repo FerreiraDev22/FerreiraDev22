@@ -72,21 +72,20 @@
 
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark">
 </div>
+  <strong><h1>Meu dia a dia :</strong></h1>
+
+  -Voltei aos estudos de java. 
   
+<strong><h1>Avisos:</strong></h1>
+
+Não tem!
   <strong><h1>Codando(eu):</strong></h1>
  
   <div>
  <img src="https://www.imagemhost.com.br/images/2023/02/22/200w.gif" alt="200w.gif"  width="300"/>
 </div>
-  <strong><h1>Meu dia a dia :</strong></h1>
-
--A partir de segunda eu volto aos estudos 
-  
-<strong><h1>Avisos:</strong></h1>
-
-Não tem!!!
 
 
-______________________________________________
+------------------------------------------------------------------------------------------------------------------------------------
 
 "O café é a melhor bebida do desenvolvedor"
