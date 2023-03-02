@@ -9,7 +9,7 @@
 
 <strong><h1>Resumo:</strong></h1>
  
-👋 e Olá Me chamo Johnny 
+👋 Olá Me chamo Johnny 
 
 👨‍🎓 Cursos:Lógica de Programação / Java FullStack Web. 
 
