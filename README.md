@@ -11,22 +11,20 @@
  
 👋 Olá Me chamo Johnny 
 
+💻 Desenvolvedor Back-end.
+
 👨‍🎓 Cursos:Lógica de Programação / Java FullStack Web. 
 
-💻 Desenvolvedor Backend.
-
-👨‍💻 Me especializando na escola Coti informática
+👨‍💻 Me especializando na Escola Coti informática
 
 <strong><h1>Certificados:</strong></h1>
 
 <div>
   <img src="https://www.imagemhost.com.br/images/2023/02/22/1671743088038.jpg" alt="cert log" width="500" >
   <p> Lógica de Programação</p>
-  <hr>
   <img src="https://www.imagemhost.com.br/images/2023/02/22/1671744392372.jpg" alt="cert java" width="500">
   <p> Java Web Fullstack </p>
 </div>
-<hr>
  <strong><h1>Tecnologias atualmente que eu uso:</h1></strong>
   
 <div>
@@ -35,7 +33,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
  </div>
- <hr>
  <strong><h1>Contatos:</h1></strong>
 
 <div>
@@ -85,7 +82,7 @@ Não tem!
  <img src="https://www.imagemhost.com.br/images/2023/02/22/200w.gif" alt="200w.gif"  width="300"/>
 </div>
 
+  
+  <h1>"O café é a melhor bebida do desenvolvedor"</h1>
 
-------------------------------------------------------------------------------------------------------------------------------------
 
-"O café é a melhor bebida do desenvolvedor"
