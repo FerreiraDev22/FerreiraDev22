@@ -21,9 +21,9 @@
 
 <div>
   <img src="https://www.imagemhost.com.br/images/2023/02/22/1671743088038.jpg" alt="cert log" width="500" >
-  <p> Lógica de Programação</p>
+ <strog><p>Lógica de Programação</p></strong>
   <img src="https://www.imagemhost.com.br/images/2023/02/22/1671744392372.jpg" alt="cert java" width="500">
-  <p> Java Web Fullstack </p>
+  <strog><p>Java Web Fullstak</p></strong>
 </div>
  <strong><h1>Tecnologias atualmente que eu uso:</h1></strong>
   
@@ -75,7 +75,8 @@
   
 <strong><h1>Avisos:</strong></h1>
 
-Não tem!
+  -Acabei o curso de java
+  
   <strong><h1>Codando(eu):</strong></h1>
  
   <div>
