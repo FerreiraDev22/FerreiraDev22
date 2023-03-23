@@ -68,25 +68,21 @@
 
    <a href="https://github.com/FerreiraDev22">
 
-   <img  src="https://github-readme-stats.vercel.app/api?username=FerreiraDev22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="140em"  whidth= "140em">
+   <img  src="https://github-readme-stats.vercel.app/api?username=FerreiraDev22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="100cm"  whidth= "135cm">
 
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark">
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark" height="100cm" whidth= "135cm">
 </div>
-  <strong><h1>Meu dia a dia :</strong></h1>
-
-  -Voltei aos estudos de java. 
   
 <strong><h1>Avisos:</strong></h1>
 
+  -Voltei aos estudos de java.
   -Acabei o curso de java
+  -Estou procurando uma oportunidade de trabalho
   
   <strong><h1>Codando(eu):</strong></h1>
  
   <div>
- <img src="https://www.imagemhost.com.br/images/2023/02/22/200w.gif" alt="200w.gif"  width="300"/>
+ <img src="https://www.imagemhost.com.br/images/2023/02/22/200w.gif" alt="200"  width="300"/>
 </div>
-
   
   <h1>"O café é a melhor bebida do desenvolvedor"</h1>
-
-
