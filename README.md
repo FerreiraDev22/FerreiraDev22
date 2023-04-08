@@ -4,7 +4,7 @@
 
 <div>
 
-  <img src="https://www.imagemhost.com.br/images/2023/02/22/eu.jpg" alt="eu.jpg"  />
+  <img src="https://www.imagemhost.com.br/images/2023/02/22/eu.jpg" alt="eu.jpg">
 </div>
 
 <strong><h1>Resumo:</strong></h1>
@@ -76,8 +76,15 @@
 <strong><h1>Avisos:</strong></h1>
 
   -Voltei aos estudos de java.
-  -Acabei o curso de java
-  -Estou procurando uma oportunidade de trabalho
+  <br>
+  -Acabei o curso de java.
+  <br>
+  -*Estou procurando uma oportunidade de trabalho.
+  <br>
+  -Estou tiranda a minha cnh(CARRO).
+  
+  Legenda:
+  (*) por enqunto vai ficar de ultima opção
   
   <strong><h1>Codando(eu):</strong></h1>
  
