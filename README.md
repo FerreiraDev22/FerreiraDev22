@@ -89,6 +89,6 @@
   <br>
   -Estou trabalhando na area de programação.❓
 
-  <h1>"☕café é a melhor bebida do desenvolvedor"</h1>
+  <h1>☕ O café é a melhor bebida do desenvolvedor</h1>
 
 ---------------------------------------------------------------------------//-------------------------------------------------------------------------------------------------------------
