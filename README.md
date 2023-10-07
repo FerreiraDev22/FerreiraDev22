@@ -11,13 +11,13 @@
 👨‍🎓 Cursos:Lógica de Programação / Java FullStack Web. 
 
 
-<strong><h1>Certificados:</strong></h1>
+<h1>Certificados:</h1>
 
 <div>
-  <img src="https://www.imagemhost.com.br/images/2023/02/22/1671743088038.jpg" alt="cert log" width="500" >
- <strog><p>Lógica de Programação</p></strong>
+  <img src="https://www.imagemhost.com.br/image/ru5OGi" alt="cert log" width="500" >
+ <strong><p>Lógica de Programação</p></strong>
   <img src="https://www.imagemhost.com.br/images/2023/02/22/1671744392372.jpg" alt="cert java" width="500">
-  <strog><p>Java Web Fullstak</p></strong>
+  <strong><p>Java Web Fullstak</p></strong>
 </div>
  <h1>Tecnologias atualmente que eu uso:</h1>
   
