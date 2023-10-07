@@ -14,7 +14,7 @@
 <h1>Certificados:</h1>
 
 <div>
-  <img src="https://www.imagemhost.com.br/image/ru5OGi" alt="cert log" width="500" >
+  <img src="https://www.imagemhost.com.br/image/ru5OGi.jpg" alt="cert log" width="500" >
  <strong><p>Lógica de Programação</p></strong>
   <img src="https://www.imagemhost.com.br/images/2023/02/22/1671744392372.jpg" alt="cert java" width="500">
   <strong><p>Java Web Fullstak</p></strong>
