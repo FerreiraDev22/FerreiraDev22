@@ -2,20 +2,14 @@
 
 <strong><h1>Bem-vindo(a) ao meu perfil😎🤜🤛😎</h1></strong>
 
-<div>
-
-  <img src="https://www.imagemhost.com.br/images/2023/02/22/eu.jpg" alt="eu.jpg">
-</div>
-
-<strong><h1>Resumo:</strong></h1>
+<h1>📋Sobre mim:</h1>
  
-👋 Olá Me chamo Johnny 
+👩‍💼 Olá Me chamo Johnny Ferreira
 
-💻 Desenvolvedor Back-end.
+💻 Sou Desenvolvedor Back-end.
 
 👨‍🎓 Cursos:Lógica de Programação / Java FullStack Web. 
 
-👨‍💻 Me especializando na Escola Coti informática
 
 <strong><h1>Certificados:</strong></h1>
 
@@ -25,7 +19,7 @@
   <img src="https://www.imagemhost.com.br/images/2023/02/22/1671744392372.jpg" alt="cert java" width="500">
   <strog><p>Java Web Fullstak</p></strong>
 </div>
- <strong><h1>Tecnologias atualmente que eu uso:</h1></strong>
+ <h1>Tecnologias atualmente que eu uso:</h1>
   
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60"/>
@@ -33,6 +27,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
  </div>
+
+ 
  <strong><h1>Contatos:</h1></strong>
 
 <div>
@@ -47,7 +43,7 @@
  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-<strong><h1>Skills:</strong></h1>
+<h1>Skills:</h1>
 
 <p>
  - Comunicação.
@@ -65,7 +61,6 @@
 
 
 <div>
-
    <a href="https://github.com/FerreiraDev22">
 
    <img  src="https://github-readme-stats.vercel.app/api?username=FerreiraDev22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="100cm"  whidth= "135cm">
@@ -73,23 +68,27 @@
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark" height="100cm" whidth= "135cm">
 </div>
   
-<strong><h1>Avisos:</strong></h1>
-
-  -Voltei aos estudos de java.
-  <br>
-  -Acabei o curso de java.
-  <br>
-  -*Estou procurando uma oportunidade de trabalho.
-  <br>
-  -Estou tiranda a minha cnh(CARRO).
-  
-  Legenda:
-  (*) por enqunto vai ficar de ultima opção
-  
   <strong><h1>Codando(eu):</strong></h1>
  
   <div>
  <img src="https://www.imagemhost.com.br/images/2023/02/22/200w.gif" alt="200"  width="300"/>
 </div>
   
-  <h1>"O café é a melhor bebida do desenvolvedor"</h1>
+
+
+
+  <h1>Avisos:</h1>
+
+  -Voltei aos estudos de java.✔️
+  <br>
+  -Acabei o curso de java.✔️
+  <br>
+  -Estou procurando uma oportunidade de trabalho.✔️
+  <br>
+  -Estou tirando a minha cnh(CARRO).❌
+  <br>
+  -Estou trabalhando na area de programação.❓
+
+  <h1>"☕café é a melhor bebida do desenvolvedor"</h1>
+
+---------------------------------------------------------------------------//-------------------------------------------------------------------------------------------------------------
