@@ -40,8 +40,7 @@
 <a href = "mailto:johnny.tyf2020@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-<a href="https://www.youtube.com/channel/UCyPg1CYOWbqDKS6Uo8jS3eQ" target="_blank">
- <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
 </div>
 
 <h1>Skills:</h1>
@@ -64,9 +63,9 @@
 <div>
    <a href="https://github.com/FerreiraDev22">
 
-   <img  src="https://github-readme-stats.vercel.app/api?username=FerreiraDev22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="100cm"  whidth= "135cm">
+   <img src="https://github-readme-stats.vercel.app/api?username=FerreiraDev22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="100cm"  whidth= "135cm">
 
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark" height="100cm" whidth= "135cm">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark" height="100cm" whidth= "135cm">
 </div>
   
   <strong><h1>Codando(eu):</strong></h1>
