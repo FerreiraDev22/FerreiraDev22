@@ -25,6 +25,8 @@
 <h3>Back-End</h>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyton/pyton-original-wordmark.svg" width="60"/>
+</div>
 </div>
 <h3>Versionamento de Código</h3>
 <div>
@@ -65,7 +67,6 @@
  - Relacionamento interpessoal.
 </p>
 
-
 <div>
    <a href="https://github.com/FerreiraDev22">
 
@@ -73,17 +74,8 @@
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark" height="100cm" whidth= "135cm">
 </div>
-  
-  <strong><h1>Codando(eu):</strong></h1>
- 
-  <div>
- <img src="https://www.imagemhost.com.br/images/2023/02/22/200w.gif" alt="200"  width="300"/>
-</div>
-  
 
-
-
-  <h1>Avisos:</h1>
+<h1>Avisos:</h1>
 
   -Voltei aos estudos de java.✔️
   <br>
