@@ -2,6 +2,8 @@
 
 <strong><h1>Bem-vindo(a) ao meu perfil😎🤜🤛😎</h1></strong>
 
+
+<p>
 <h1>📋Sobre mim:</h1>
  
 👩‍💼 Olá Me chamo Johnny Ferreira
@@ -11,13 +13,9 @@
 👨‍🎓 Cursos:Lógica de Programação / Java FullStack Web. 
 
 
-<h1>Certificados:</h1>
+<h1>Certificados:</h1> (EM MANUTENÇÂO)
 
 <div>
-  <img src="https://www.imagemhost.com.br/image/ru5OGi.jpg" alt="cert log" width="500" >
- <strong><p>Lógica de Programação</p></strong>
-  <img src="https://www.imagemhost.com.br/images/2023/02/22/1671744392372.jpg" alt="cert java" width="500">
-  <strong><p>Java Web Fullstak</p></strong>
 </div>
  <h1>Tecnologias atualmente que eu uso:</h1>
   
