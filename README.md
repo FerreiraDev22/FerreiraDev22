@@ -17,20 +17,20 @@
 </div>
 
  <h1>Tecnologias atualmente que eu uso:</h1>
-  <h4>Front-End</h4>
+  <h3>Front-End</h3>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"/> 
 </div>
-<h2>Back-End</h2>
+<h3>Back-End</h>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>
 </div>
-<h2>Versionamento de Código</h2>
+<h3>Versionamento de Código</h3>
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
 </div>
-<h2>Framework</h2>
+<h3>Framework</h3>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original-wordmark.svg"width="60"/>
