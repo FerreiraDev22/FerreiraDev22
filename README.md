@@ -40,9 +40,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original-wordmark.svg"width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original-wordmark.svg" width="60"/>
+  
 </div>
-
+<h3>Outros</h3>
+<div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="60"/>
+</div>
  
  <strong><h1>Contatos:</h1></strong>
 
