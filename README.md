@@ -25,7 +25,7 @@
 <h3>Back-End</h>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyton/pyton-original-wordmark.svg" width="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pynton/pynton-original-wordmark.svg" width="60"/>
 </div>
 </div>
 <h3>Versionamento de Código</h3>
@@ -37,6 +37,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original-wordmark.svg"width="60"/>
 </div>
+
  
  <strong><h1>Contatos:</h1></strong>
 
