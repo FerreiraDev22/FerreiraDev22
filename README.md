@@ -25,7 +25,7 @@
 <h3>Back-End</h>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pynton/pynton-original-wordmark.svg" width="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinton/pinton-original-wordmark.svg" width="60"/>
 </div>
 </div>
 <h3>Versionamento de Código</h3>
