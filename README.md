@@ -17,51 +17,47 @@
 </div>
 
  <h1>Tecnologias atualmente que eu uso:</h1>
-  <h3>Front-End</h3>
+ 
+ <strong><h3>Front-End</h3></strong>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"/> 
-  
-   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"/>    
 </div>
-<h3>Back-End</h>
+
+<strong><h3>Back-End</h3></strong>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>
-   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60"/>  
 </div>
-</div>
-<h3>Versionamento de Código</h3>
+
+<strong><h3>Versionamento de Código</h3></strong>
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
 </div>
-<h3>Framework</h3>
+
+<strong><h3>Framework</h3></strong>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original-wordmark.svg"width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
-  
 </div>
-<h3>Outros</h3>
+
+<strong><h3>Outros</h3></strong>
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="60"/>
 </div>
- 
- <strong><h1>Contatos:</h1></strong>
 
+<strong><h1>Contatos:</h1></strong>
 <div>
-
 <a href="https://www.linkedin.com/in/johnnyferreira22" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <a href = "mailto:johnny.tyf2020@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-
 </div>
 
 <h1>Skills:</h1>
-
 <p>
  - Comunicação.
   <br>
@@ -97,5 +93,9 @@
   -Estou trabalhando na area de programação.❓
 
   <h1>☕ O café é a melhor bebida do desenvolvedor</h1>
+
+  <h1>Meu Curriculo</h1>
+
+  
 
 ---------------------------------------------------------------------------//-------------------------------------------------------------------------------------------------------------
