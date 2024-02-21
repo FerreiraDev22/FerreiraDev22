@@ -17,7 +17,7 @@
 </div>
 
  <h1>Tecnologias atualmente que eu uso:</h1>
-  <h2>Front End</h2>
+  <h3>Front-End</h3>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"/> 
