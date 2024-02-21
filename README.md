@@ -1,33 +1,40 @@
 
 
 <strong><h1>Bem-vindo(a) ao meu perfil😎🤜🤛😎</h1></strong>
-
-
-<p>
+<hr>
 <h1>📋Sobre mim:</h1>
  
 👩‍💼 Olá Me chamo Johnny Ferreira
 
 💻 Sou Desenvolvedor Back-end.
 
-👨‍🎓 Cursos:Lógica de Programação / Java FullStack Web. 
+👨‍🎓 Cursos:Lógica de Programação / Java FullStack Web (Coti informática)
 
 
 <h1>Certificados:</h1> (EM MANUTENÇÂO)
 
 <div>
 </div>
+
  <h1>Tecnologias atualmente que eu uso:</h1>
-  
+  <h2>Front End</h2>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"/> 
+</div>
+<h2>Back-End</h2>
+<div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+</div>
+<h2>Versionamento de Código</h2>
+<div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+</div>
+<h2>Framework</h2>
+<div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original-wordmark.svg"width="60"/>
 </div>
-
  
  <strong><h1>Contatos:</h1></strong>
 
