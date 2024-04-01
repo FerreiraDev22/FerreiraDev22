@@ -9,6 +9,7 @@
 💻 Sou Desenvolvedor Back-end.
 
 👨‍🎓 Cursos:Lógica de Programação / Java FullStack Web (Coti informática)
+-Estou fazendo faculdade Aanalise e Desenvolvimeto de Sistemas-ADS
 
 
 <h1>Certificados:</h1> (EM MANUTENÇÂO)
@@ -88,13 +89,20 @@
   <br>
   -Estou procurando uma oportunidade de trabalho.✔️
   <br>
-  -Estou tirando a minha cnh(CARRO).❌
+  -Estou tirando a minha cnh(CARRO).❓
   <br>
   -Estou trabalhando na area de programação.❓
+  <br>
+  -Estou fazendo faculdade Aanalise e Desenvolvimeto de Sistemas-ADS✔️
 
   <h1>☕ O café é a melhor bebida do desenvolvedor</h1>
 
   <h1>Meu Curriculo</h1>
+
+  <div>
+
+   buton
+  </div>
 
   
 
