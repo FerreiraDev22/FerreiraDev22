@@ -49,7 +49,7 @@
 
 <strong><h1>Contatos:</h1></strong>
 <div>
-<a href="https://www.linkedin.com/in/johnnyferreira22" target="_blank">
+<a href=www.linkedin.com/in/johnnyferreiradev target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <a href = "mailto:johnny.tyf2020@gmail.com" target="_blank">
