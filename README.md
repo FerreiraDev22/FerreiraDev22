@@ -34,7 +34,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
 </div>
 
-<strong><h3>Framework</h3></strong>
+<strong><h3>FrameWork</h3></strong>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original-wordmark.svg"width="60"/>
