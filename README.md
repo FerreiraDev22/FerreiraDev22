@@ -36,9 +36,7 @@
 <strong><h3>FrameWork</h3></strong>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original-wordmark.svg"width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring-boot/spring-boot-original-wordmark.svg"width="60"/>
 </div>
 
 <strong><h3>Outros</h3></strong>
