@@ -84,12 +84,8 @@
   <br>
   -Estou procurando uma oportunidade de trabalho.✔️
   <br>
-  -Estou tirando a minha cnh(CARRO).❓
-  <br>
   -Estou trabalhando na area de programação.❓
   <br>
   -Estou fazendo faculdade Aanalise e Desenvolvimeto de Sistemas-ADS✔️
 
   <h1>☕O café é a melhor bebida do desenvolvedor☕</h1> 
-
----------------------------------------------------------------------------//-------------------------------------------------------------------------------------------------------------
