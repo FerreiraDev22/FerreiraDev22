@@ -25,8 +25,7 @@
 
 <strong><h3>Back-End</h3></strong>
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60"/>  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>  
 </div>
 
 <strong><h3>Versionamento de Código</h3></strong>
