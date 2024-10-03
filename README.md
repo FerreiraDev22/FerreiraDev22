@@ -6,21 +6,20 @@
  
 👩‍💼 Olá Me chamo Johnny Ferreira
 
-💻 Sou Desenvolvedor Back-end.
+💻 Sou Desenvolvedor Back-end Java
 
 👨‍🎓 Cursos:Lógica de Programação / Java FullStack Web (Coti informática)
 
-<h1>Certificados:</h1> (EM MANUTENÇÂO)
 
-<div>
-</div>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- <h1>Tecnologias atualmente que eu uso:</h1>
+ <h1>Tecnologias que eu uso:</h1>
  
  <strong><h3>Front-End</h3></strong>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"/>    
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/js-original-wordmark.svg" width="60"/>    
 </div>
 
 <strong><h3>Back-End</h3></strong>
@@ -35,14 +34,15 @@
 
 <strong><h3>FrameWork</h3></strong>
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"width="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring-boot/spring-boot-original-wordmark.svg"width="60"/>
 </div>
 
-<strong><h3>Outros</h3></strong>
+<strong><h3>Gerenciamento de projetos</h3></strong>
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="60"/>
 </div>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <strong><h1>Contatos:</h1></strong>
 <div>
@@ -53,7 +53,9 @@
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<h1>Skills:</h1>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1>Soft Skills:</h1>
 <p>
  - Comunicação.
   <br>
@@ -68,13 +70,30 @@
  - Relacionamento interpessoal.
 </p>
 
-<div>
-   <a href="https://github.com/FerreiraDev22">
+<h1>Hard Skills:</h1>
+<p>
+ 
+- Linguagens de Programação: Java
+ <br>
+= Frameworks: Spring boot
+ <br>
+- Desenvolvimento Web: Html, Css, JavaScript
+ <br>
+- Banco de Dados: SQL MySQL, PostgreSQL Oracle
+ <br>
+- Integração de APIs: Rest, Restfull
+ <br>
+- Controle de Versão: Git
+ <br>
+- Ferramentas de Build (Maven, Gradle)
+ <br>
+- Práticas de Desenvolvimento: Desenvolvimento Orientado a Objetos (OO), Test-Driven Development (TDD)
+ <br>
+- Infraestrutura em Nuvem: AWS, Azure
+ <br>
+- Ferramentas de Contêineres: Docker
 
-   <img src="https://github-readme-stats.vercel.app/api?username=FerreiraDev22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="100cm"  whidth= "135cm">
-
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraDev22&layout=compact&langs_count=6&theme=dark" height="100cm" whidth= "135cm">
-</div>
+</p>
 
 <h1>Avisos:</h1>
 
@@ -87,5 +106,8 @@
   -Estou trabalhando na area de programação.❓
   <br>
   -Estou fazendo faculdade Aanalise e Desenvolvimeto de Sistemas-ADS✔️
+
+
+  
 
   <h1>☕O café é a melhor bebida do desenvolvedor☕</h1> 
